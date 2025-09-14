@@ -1,4 +1,3 @@
-## Hi, I'm Batuhan👋
 <p align="center">
   <h1>Hi, I'm Batuhan</h1>
 </p>
