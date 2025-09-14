@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Hi, I'm Batuhan</h1>
-</p>
+<h1 align="center">Hi, I'm Batuhan!</h1>
+
 
 ⊛⊛⊛ Hello! I'm Batuhan Basoda, currently studying Computer Engineering at Middle East Technical University(METU). I have a strong passion for programming and love exploring the world of computer science 🧑‍💻. From writing clean code to understanding complex algorithms, I’m always motivated to learn, create, and share my projects with dear GitHub community 🐙.  
 
