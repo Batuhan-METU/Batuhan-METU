@@ -11,4 +11,3 @@
 
 
 
-<img width="879" height="660" alt="screen-shot-2013-07-26-at-13-21-52" src="https://github.com/user-attachments/assets/ab84e6be-24b9-48ac-96b0-5b8a072bd788" />
