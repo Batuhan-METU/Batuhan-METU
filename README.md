@@ -1,4 +1,4 @@
-<img width="879" height="660" alt="screen-shot-2013-07-26-at-13-21-52" src="https://github.com/user-attachments/assets/fcc733ad-a756-415e-b898-0145461ae07a" /><h1 align="center">Hi, I'm Batuhan!</h1>
+<h1 align="center">Hi, I'm Batuhan!</h1>
 
 
 ⊛⊛⊛ Hello! I'm Batuhan Basoda, currently studying Computer Engineering at Middle East Technical University(METU). I have a strong passion for programming and love exploring the world of computer science 🧑‍💻. From writing clean code to understanding complex algorithms, I’m always motivated to learn, create, and share my projects with dear GitHub community 🐙.  
