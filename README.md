@@ -11,4 +11,5 @@
 
 
 
-![Adsız](https://github.com/user-attachments/assets/82e65155-e6a7-45c9-b86a-1e5488e3dd5f)
+
+![499857031-82e65155-e6a7-45c9-b86a-1e5488e3dd5f](https://github.com/user-attachments/assets/8439ac74-2f60-49c0-a2ad-089aaa39130c)
